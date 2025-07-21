@@ -6,7 +6,7 @@ Notebook for day 1 lab : <a href="https://colab.research.google.com/github/UBDS-
 
 Notebook for day 2 lab : <a href="https://colab.research.google.com/github/UBDS-3/ML_projects_tasks/blob/main/day-2-dimesionality-reduction.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
 
-Notebook for day 3 lab : <a href="https://colab.research.google.com/github/UBDS-3/ML_projects_tasks/blob/main/day-3-logistic-regression.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
+Notebook for day 3 lab  (Colab recommended!): <a href="https://colab.research.google.com/github/UBDS-3/ML_projects_tasks/blob/main/day-3-logistic-regression.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
 
 Notebook for day 5 lab : <a href="https://colab.research.google.com/github/UBDS-3/ML_projects_tasks/blob/main/day-4-Trees and NN tasks.ipynb
 "><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
